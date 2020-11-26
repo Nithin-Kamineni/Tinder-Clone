@@ -1,0 +1,604 @@
+starting to Traing ...
+
+EPOCH 1
+BATCH 100  Train Acc: 0.0  Time: 54.2 s
+BATCH 200  Train Acc: 0.0  Time: 106.2 s
+
+
+EPOCH 1  Val Acc: 0.004  Time: 164.9 s
+
+EPOCH 2
+BATCH 100  Train Acc: 0.016  Time: 216.3 s
+BATCH 200  Train Acc: 0.0  Time: 267.6 s
+
+EPOCH 2  Val Acc: 0.006  Time: 324.8 s
+
+EPOCH 3
+BATCH 100  Train Acc: 0.0  Time: 375.3 s
+BATCH 200  Train Acc: 0.031  Time: 426.2 s
+
+EPOCH 3  Val Acc: 0.009  Time: 482.8 s
+
+EPOCH 4
+BATCH 100  Train Acc: 0.0  Time: 532.8 s
+BATCH 200  Train Acc: 0.031  Time: 583.3 s
+
+EPOCH 4  Val Acc: 0.011  Time: 639.4 s
+
+EPOCH 5
+BATCH 100  Train Acc: 0.0  Time: 689.4 s
+BATCH 200  Train Acc: 0.016  Time: 739.3 s
+
+EPOCH 5  Val Acc: 0.013  Time: 795.1 s
+
+EPOCH 6
+BATCH 100  Train Acc: 0.016  Time: 845.4 s
+BATCH 200  Train Acc: 0.0  Time: 896.1 s
+
+EPOCH 6  Val Acc: 0.02  Time: 952.3 s
+
+EPOCH 7
+BATCH 100  Train Acc: 0.016  Time: 1002.6 s
+BATCH 200  Train Acc: 0.031  Time: 1052.9 s
+
+EPOCH 7  Val Acc: 0.026  Time: 1108.9 s
+
+EPOCH 8
+BATCH 100  Train Acc: 0.0  Time: 1159.2 s
+BATCH 200  Train Acc: 0.062  Time: 1210.4 s
+
+EPOCH 8  Val Acc: 0.04  Time: 1266.6 s
+
+EPOCH 9
+BATCH 100  Train Acc: 0.094  Time: 1317.0 s
+BATCH 200  Train Acc: 0.016  Time: 1367.7 s
+
+EPOCH 9  Val Acc: 0.044  Time: 1424.3 s
+
+EPOCH 10
+BATCH 100  Train Acc: 0.062  Time: 1474.8 s
+BATCH 200  Train Acc: 0.062  Time: 1525.1 s
+
+EPOCH 10  Val Acc: 0.052  Time: 1581.7 s
+
+EPOCH 11
+BATCH 100  Train Acc: 0.078  Time: 1632.2 s
+BATCH 200  Train Acc: 0.047  Time: 1682.7 s
+
+EPOCH 11  Val Acc: 0.067  Time: 1739.2 s
+
+EPOCH 12
+BATCH 100  Train Acc: 0.047  Time: 1789.2 s
+BATCH 200  Train Acc: 0.078  Time: 1839.7 s
+
+EPOCH 12  Val Acc: 0.073  Time: 1896.1 s
+
+EPOCH 13
+BATCH 100  Train Acc: 0.031  Time: 1946.2 s
+BATCH 200  Train Acc: 0.109  Time: 1996.0 s
+
+EPOCH 13  Val Acc: 0.082  Time: 2051.9 s
+
+EPOCH 14
+BATCH 100  Train Acc: 0.125  Time: 2102.2 s
+BATCH 200  Train Acc: 0.125  Time: 2152.7 s
+
+EPOCH 14  Val Acc: 0.089  Time: 2208.9 s
+
+EPOCH 15
+BATCH 100  Train Acc: 0.078  Time: 2259.0 s
+BATCH 200  Train Acc: 0.109  Time: 2309.9 s
+
+EPOCH 15  Val Acc: 0.093  Time: 2367.5 s
+
+EPOCH 16
+BATCH 100  Train Acc: 0.188  Time: 2417.6 s
+BATCH 200  Train Acc: 0.078  Time: 2468.1 s
+
+EPOCH 16  Val Acc: 0.097  Time: 2524.0 s
+
+EPOCH 17
+BATCH 100  Train Acc: 0.188  Time: 2573.8 s
+BATCH 200  Train Acc: 0.172  Time: 2623.6 s
+
+EPOCH 17  Val Acc: 0.114  Time: 2679.6 s
+
+EPOCH 18
+BATCH 100  Train Acc: 0.234  Time: 2729.4 s
+BATCH 200  Train Acc: 0.141  Time: 2779.0 s
+
+EPOCH 18  Val Acc: 0.105  Time: 2834.6 s
+
+EPOCH 19
+BATCH 100  Train Acc: 0.156  Time: 2884.5 s
+BATCH 200  Train Acc: 0.172  Time: 2934.6 s
+
+EPOCH 19  Val Acc: 0.119  Time: 2991.2 s
+
+EPOCH 20
+BATCH 100  Train Acc: 0.172  Time: 3041.4 s
+BATCH 200  Train Acc: 0.141  Time: 3092.0 s
+
+EPOCH 20  Val Acc: 0.088  Time: 3148.4 s
+
+EPOCH 21
+BATCH 100  Train Acc: 0.234  Time: 3198.6 s
+BATCH 200  Train Acc: 0.188  Time: 3249.2 s
+
+EPOCH 21  Val Acc: 0.11  Time: 3305.2 s
+
+EPOCH 22
+BATCH 100  Train Acc: 0.172  Time: 3355.4 s
+BATCH 200  Train Acc: 0.25  Time: 3405.9 s
+
+EPOCH 22  Val Acc: 0.121  Time: 3461.9 s
+
+EPOCH 23
+BATCH 100  Train Acc: 0.344  Time: 3511.8 s
+BATCH 200  Train Acc: 0.422  Time: 3561.3 s
+
+EPOCH 23  Val Acc: 0.125  Time: 3616.8 s
+
+EPOCH 24
+BATCH 100  Train Acc: 0.344  Time: 3667.2 s
+BATCH 200  Train Acc: 0.266  Time: 3717.3 s
+
+EPOCH 24  Val Acc: 0.118  Time: 3772.6 s
+
+EPOCH 25
+BATCH 100  Train Acc: 0.297  Time: 3822.5 s
+BATCH 200  Train Acc: 0.281  Time: 3872.1 s
+
+EPOCH 25  Val Acc: 0.116  Time: 3927.5 s
+
+EPOCH 26
+BATCH 100  Train Acc: 0.359  Time: 3976.7 s
+BATCH 200  Train Acc: 0.375  Time: 4026.7 s
+
+EPOCH 26  Val Acc: 0.119  Time: 4082.1 s
+
+EPOCH 27
+BATCH 100  Train Acc: 0.344  Time: 4131.7 s
+BATCH 200  Train Acc: 0.469  Time: 4181.2 s
+
+EPOCH 27  Val Acc: 0.118  Time: 4236.4 s
+
+EPOCH 28
+BATCH 100  Train Acc: 0.438  Time: 4285.8 s
+BATCH 200  Train Acc: 0.312  Time: 4335.7 s
+
+EPOCH 28  Val Acc: 0.118  Time: 4390.9 s
+
+EPOCH 29
+BATCH 100  Train Acc: 0.312  Time: 4440.0 s
+BATCH 200  Train Acc: 0.359  Time: 4489.9 s
+
+EPOCH 29  Val Acc: 0.112  Time: 4545.5 s
+
+EPOCH 30
+BATCH 100  Train Acc: 0.266  Time: 4595.1 s
+BATCH 200  Train Acc: 0.453  Time: 4645.1 s
+
+EPOCH 30  Val Acc: 0.122  Time: 4700.2 s
+
+EPOCH 31
+BATCH 100  Train Acc: 0.531  Time: 4749.9 s
+BATCH 200  Train Acc: 0.484  Time: 4799.8 s
+
+EPOCH 31  Val Acc: 0.123  Time: 4855.3 s
+
+EPOCH 32
+BATCH 100  Train Acc: 0.453  Time: 4904.9 s
+BATCH 200  Train Acc: 0.406  Time: 4954.8 s
+
+EPOCH 32  Val Acc: 0.118  Time: 5010.4 s
+
+EPOCH 33
+BATCH 100  Train Acc: 0.422  Time: 5059.8 s
+BATCH 200  Train Acc: 0.406  Time: 5109.4 s
+
+EPOCH 33  Val Acc: 0.121  Time: 5164.9 s
+
+EPOCH 34
+BATCH 100  Train Acc: 0.406  Time: 5214.7 s
+BATCH 200  Train Acc: 0.453  Time: 5264.6 s
+
+EPOCH 34  Val Acc: 0.113  Time: 5319.9 s
+
+EPOCH 35
+BATCH 100  Train Acc: 0.406  Time: 5369.9 s
+BATCH 200  Train Acc: 0.391  Time: 5419.1 s
+
+EPOCH 35  Val Acc: 0.126  Time: 5474.4 s
+
+EPOCH 36
+BATCH 100  Train Acc: 0.547  Time: 5524.1 s
+BATCH 200  Train Acc: 0.5  Time: 5574.0 s
+
+EPOCH 36  Val Acc: 0.129  Time: 5629.3 s
+
+EPOCH 37
+BATCH 100  Train Acc: 0.5  Time: 5679.2 s
+BATCH 200  Train Acc: 0.5  Time: 5728.7 s
+
+EPOCH 37  Val Acc: 0.121  Time: 5784.1 s
+
+EPOCH 38
+BATCH 100  Train Acc: 0.562  Time: 5833.7 s
+BATCH 200  Train Acc: 0.391  Time: 5883.8 s
+
+EPOCH 38  Val Acc: 0.116  Time: 5939.0 s
+
+EPOCH 39
+BATCH 100  Train Acc: 0.453  Time: 5988.5 s
+BATCH 200  Train Acc: 0.438  Time: 6038.1 s
+
+EPOCH 39  Val Acc: 0.12  Time: 6093.5 s
+
+EPOCH 40
+BATCH 100  Train Acc: 0.438  Time: 6142.6 s
+BATCH 200  Train Acc: 0.484  Time: 6192.3 s
+
+EPOCH 40  Val Acc: 0.12  Time: 6247.5 s
+
+EPOCH 41
+BATCH 100  Train Acc: 0.531  Time: 6297.0 s
+BATCH 200  Train Acc: 0.469  Time: 6346.5 s
+
+EPOCH 41  Val Acc: 0.121  Time: 6402.4 s
+
+EPOCH 42
+BATCH 100  Train Acc: 0.438  Time: 6452.0 s
+BATCH 200  Train Acc: 0.406  Time: 6501.7 s
+
+EPOCH 42  Val Acc: 0.116  Time: 6557.1 s
+
+EPOCH 43
+BATCH 100  Train Acc: 0.484  Time: 6606.6 s
+BATCH 200  Train Acc: 0.438  Time: 6656.4 s
+
+EPOCH 43  Val Acc: 0.117  Time: 6712.1 s
+
+EPOCH 44
+BATCH 100  Train Acc: 0.281  Time: 6761.7 s
+BATCH 200  Train Acc: 0.516  Time: 6811.6 s
+
+EPOCH 44  Val Acc: 0.111  Time: 6867.0 s
+
+EPOCH 45
+BATCH 100  Train Acc: 0.562  Time: 6916.4 s
+BATCH 200  Train Acc: 0.453  Time: 6966.1 s
+
+EPOCH 45  Val Acc: 0.114  Time: 7021.7 s
+
+EPOCH 46
+BATCH 100  Train Acc: 0.422  Time: 7071.5 s
+BATCH 200  Train Acc: 0.359  Time: 7121.4 s
+
+EPOCH 46  Val Acc: 0.121  Time: 7176.5 s
+
+EPOCH 47
+BATCH 100  Train Acc: 0.453  Time: 7226.0 s
+BATCH 200  Train Acc: 0.453  Time: 7275.5 s
+
+EPOCH 47  Val Acc: 0.114  Time: 7331.2 s
+
+EPOCH 48
+BATCH 100  Train Acc: 0.422  Time: 7381.0 s
+BATCH 200  Train Acc: 0.438  Time: 7431.2 s
+
+EPOCH 48  Val Acc: 0.116  Time: 7486.7 s
+
+EPOCH 49
+BATCH 100  Train Acc: 0.547  Time: 7536.5 s
+BATCH 200  Train Acc: 0.469  Time: 7586.1 s
+
+EPOCH 49  Val Acc: 0.116  Time: 7641.7 s
+
+EPOCH 50
+BATCH 100  Train Acc: 0.562  Time: 7691.5 s
+BATCH 200  Train Acc: 0.453  Time: 7741.5 s
+
+EPOCH 50  Val Acc: 0.109  Time: 7797.5 s
+
+EPOCH 51
+BATCH 100  Train Acc: 0.438  Time: 7847.4 s
+BATCH 200  Train Acc: 0.469  Time: 7897.3 s
+
+EPOCH 51  Val Acc: 0.118  Time: 7952.7 s
+
+EPOCH 52
+BATCH 100  Train Acc: 0.562  Time: 8002.2 s
+BATCH 200  Train Acc: 0.594  Time: 8052.2 s
+
+EPOCH 52  Val Acc: 0.125  Time: 8108.4 s
+
+EPOCH 53
+BATCH 100  Train Acc: 0.469  Time: 8158.2 s
+BATCH 200  Train Acc: 0.391  Time: 8208.2 s
+
+EPOCH 53  Val Acc: 0.117  Time: 8263.8 s
+
+EPOCH 54
+BATCH 100  Train Acc: 0.375  Time: 8313.7 s
+BATCH 200  Train Acc: 0.516  Time: 8363.4 s
+
+EPOCH 54  Val Acc: 0.116  Time: 8418.7 s
+
+EPOCH 55
+BATCH 100  Train Acc: 0.406  Time: 8468.8 s
+BATCH 200  Train Acc: 0.469  Time: 8519.0 s
+
+EPOCH 55  Val Acc: 0.108  Time: 8574.8 s
+
+EPOCH 56
+BATCH 100  Train Acc: 0.312  Time: 8624.9 s
+BATCH 200  Train Acc: 0.391  Time: 8675.1 s
+
+EPOCH 56  Val Acc: 0.125  Time: 8731.3 s
+
+EPOCH 57
+BATCH 100  Train Acc: 0.469  Time: 8780.8 s
+BATCH 200  Train Acc: 0.453  Time: 8831.2 s
+
+EPOCH 57  Val Acc: 0.124  Time: 8886.7 s
+
+EPOCH 58
+BATCH 100  Train Acc: 0.438  Time: 8936.0 s
+BATCH 200  Train Acc: 0.453  Time: 8986.3 s
+
+EPOCH 58  Val Acc: 0.123  Time: 9042.0 s
+
+EPOCH 59
+BATCH 100  Train Acc: 0.484  Time: 9091.6 s
+BATCH 200  Train Acc: 0.453  Time: 9141.2 s
+
+EPOCH 59  Val Acc: 0.124  Time: 9196.5 s
+
+EPOCH 60
+BATCH 100  Train Acc: 0.703  Time: 9246.2 s
+BATCH 200  Train Acc: 0.609  Time: 9296.2 s
+
+EPOCH 60  Val Acc: 0.115  Time: 9351.8 s
+
+EPOCH 61
+BATCH 100  Train Acc: 0.516  Time: 9401.5 s
+BATCH 200  Train Acc: 0.391  Time: 9451.2 s
+
+EPOCH 61  Val Acc: 0.114  Time: 9506.5 s
+
+EPOCH 62
+BATCH 100  Train Acc: 0.469  Time: 9555.9 s
+BATCH 200  Train Acc: 0.344  Time: 9606.2 s
+
+EPOCH 62  Val Acc: 0.125  Time: 9661.8 s
+
+EPOCH 63
+BATCH 100  Train Acc: 0.484  Time: 9711.8 s
+BATCH 200  Train Acc: 0.484  Time: 9761.8 s
+
+EPOCH 63  Val Acc: 0.124  Time: 9817.8 s
+
+EPOCH 64
+BATCH 100  Train Acc: 0.578  Time: 9867.7 s
+BATCH 200  Train Acc: 0.406  Time: 9917.7 s
+
+EPOCH 64  Val Acc: 0.122  Time: 9973.7 s
+
+EPOCH 65
+BATCH 100  Train Acc: 0.594  Time: 10023.8 s
+BATCH 200  Train Acc: 0.484  Time: 10074.0 s
+
+EPOCH 65  Val Acc: 0.115  Time: 10130.1 s
+
+EPOCH 66
+BATCH 100  Train Acc: 0.484  Time: 10180.1 s
+BATCH 200  Train Acc: 0.531  Time: 10230.5 s
+
+EPOCH 66  Val Acc: 0.117  Time: 10286.8 s
+
+EPOCH 67
+BATCH 100  Train Acc: 0.484  Time: 10336.8 s
+BATCH 200  Train Acc: 0.625  Time: 10387.2 s
+
+EPOCH 67  Val Acc: 0.119  Time: 10443.6 s
+
+EPOCH 68
+BATCH 100  Train Acc: 0.547  Time: 10494.0 s
+BATCH 200  Train Acc: 0.5  Time: 10544.3 s
+
+EPOCH 68  Val Acc: 0.113  Time: 10600.8 s
+
+EPOCH 69
+BATCH 100  Train Acc: 0.484  Time: 10651.3 s
+BATCH 200  Train Acc: 0.438  Time: 10701.4 s
+
+EPOCH 69  Val Acc: 0.119  Time: 10757.3 s
+
+EPOCH 70
+BATCH 100  Train Acc: 0.625  Time: 10807.1 s
+BATCH 200  Train Acc: 0.469  Time: 10857.7 s
+
+EPOCH 70  Val Acc: 0.117  Time: 10914.0 s
+
+EPOCH 71
+BATCH 100  Train Acc: 0.531  Time: 10964.4 s
+BATCH 200  Train Acc: 0.469  Time: 11014.8 s
+
+EPOCH 71  Val Acc: 0.116  Time: 11071.0 s
+
+EPOCH 72
+BATCH 100  Train Acc: 0.531  Time: 11121.0 s
+BATCH 200  Train Acc: 0.438  Time: 11171.7 s
+
+EPOCH 72  Val Acc: 0.113  Time: 11227.6 s
+
+EPOCH 73
+BATCH 100  Train Acc: 0.484  Time: 11277.7 s
+BATCH 200  Train Acc: 0.469  Time: 11327.7 s
+
+EPOCH 73  Val Acc: 0.12  Time: 11384.1 s
+
+EPOCH 74
+BATCH 100  Train Acc: 0.484  Time: 11434.5 s
+BATCH 200  Train Acc: 0.422  Time: 11485.0 s
+
+EPOCH 74  Val Acc: 0.121  Time: 11541.3 s
+
+EPOCH 75
+BATCH 100  Train Acc: 0.484  Time: 11592.0 s
+BATCH 200  Train Acc: 0.594  Time: 11642.7 s
+
+EPOCH 75  Val Acc: 0.119  Time: 11699.4 s
+
+EPOCH 76
+BATCH 100  Train Acc: 0.484  Time: 11749.8 s
+BATCH 200  Train Acc: 0.562  Time: 11800.7 s
+
+EPOCH 76  Val Acc: 0.108  Time: 11857.6 s
+
+EPOCH 77
+BATCH 100  Train Acc: 0.5  Time: 11907.8 s
+BATCH 200  Train Acc: 0.5  Time: 11958.1 s
+
+EPOCH 77  Val Acc: 0.112  Time: 12014.4 s
+
+EPOCH 78
+BATCH 100  Train Acc: 0.375  Time: 12064.7 s
+BATCH 200  Train Acc: 0.422  Time: 12115.4 s
+
+EPOCH 78  Val Acc: 0.116  Time: 12171.8 s
+
+EPOCH 79
+BATCH 100  Train Acc: 0.594  Time: 12222.3 s
+BATCH 200  Train Acc: 0.484  Time: 12272.8 s
+
+EPOCH 79  Val Acc: 0.119  Time: 12329.2 s
+
+EPOCH 80
+BATCH 100  Train Acc: 0.484  Time: 12379.4 s
+BATCH 200  Train Acc: 0.531  Time: 12430.4 s
+
+EPOCH 80  Val Acc: 0.119  Time: 12487.0 s
+
+EPOCH 81
+BATCH 100  Train Acc: 0.406  Time: 12537.5 s
+BATCH 200  Train Acc: 0.594  Time: 12588.4 s
+
+EPOCH 81  Val Acc: 0.117  Time: 12645.2 s
+
+EPOCH 82
+BATCH 100  Train Acc: 0.562  Time: 12696.0 s
+BATCH 200  Train Acc: 0.484  Time: 12746.6 s
+
+EPOCH 82  Val Acc: 0.115  Time: 12803.7 s
+
+EPOCH 83
+BATCH 100  Train Acc: 0.484  Time: 12854.6 s
+BATCH 200  Train Acc: 0.5  Time: 12905.8 s
+
+EPOCH 83  Val Acc: 0.12  Time: 12962.8 s
+
+EPOCH 84
+BATCH 100  Train Acc: 0.469  Time: 13014.2 s
+BATCH 200  Train Acc: 0.469  Time: 13065.1 s
+
+EPOCH 84  Val Acc: 0.12  Time: 13122.2 s
+
+EPOCH 85
+BATCH 100  Train Acc: 0.469  Time: 13172.8 s
+BATCH 200  Train Acc: 0.516  Time: 13223.5 s
+
+EPOCH 85  Val Acc: 0.118  Time: 13279.9 s
+
+EPOCH 86
+BATCH 100  Train Acc: 0.375  Time: 13330.8 s
+BATCH 200  Train Acc: 0.516  Time: 13381.6 s
+
+EPOCH 86  Val Acc: 0.111  Time: 13438.4 s
+
+EPOCH 87
+BATCH 100  Train Acc: 0.391  Time: 13489.3 s
+BATCH 200  Train Acc: 0.516  Time: 13539.8 s
+
+EPOCH 87  Val Acc: 0.11  Time: 13596.8 s
+
+EPOCH 88
+BATCH 100  Train Acc: 0.484  Time: 13647.6 s
+BATCH 200  Train Acc: 0.469  Time: 13698.3 s
+
+EPOCH 88  Val Acc: 0.12  Time: 13754.9 s
+
+EPOCH 89
+BATCH 100  Train Acc: 0.406  Time: 13805.5 s
+BATCH 200  Train Acc: 0.516  Time: 13856.2 s
+
+EPOCH 89  Val Acc: 0.113  Time: 13913.5 s
+
+EPOCH 90
+BATCH 100  Train Acc: 0.5  Time: 13964.6 s
+BATCH 200  Train Acc: 0.484  Time: 14015.6 s
+
+EPOCH 90  Val Acc: 0.111  Time: 14072.8 s
+
+EPOCH 91
+BATCH 100  Train Acc: 0.734  Time: 14123.5 s
+BATCH 200  Train Acc: 0.609  Time: 14173.8 s
+
+EPOCH 91  Val Acc: 0.118  Time: 14230.7 s
+
+EPOCH 92
+BATCH 100  Train Acc: 0.547  Time: 14281.7 s
+BATCH 200  Train Acc: 0.531  Time: 14332.8 s
+
+EPOCH 92  Val Acc: 0.12  Time: 14389.8 s
+
+EPOCH 93
+BATCH 100  Train Acc: 0.406  Time: 14440.2 s
+BATCH 200  Train Acc: 0.578  Time: 14491.7 s
+
+EPOCH 93  Val Acc: 0.119  Time: 14549.0 s
+
+EPOCH 94
+BATCH 100  Train Acc: 0.422  Time: 14599.7 s
+BATCH 200  Train Acc: 0.422  Time: 14650.8 s
+
+EPOCH 94  Val Acc: 0.108  Time: 14708.0 s
+
+EPOCH 95
+BATCH 100  Train Acc: 0.469  Time: 14758.7 s
+BATCH 200  Train Acc: 0.438  Time: 14809.6 s
+
+EPOCH 95  Val Acc: 0.116  Time: 14867.1 s
+
+EPOCH 96
+BATCH 100  Train Acc: 0.453  Time: 14918.1 s
+BATCH 200  Train Acc: 0.531  Time: 14968.6 s
+
+EPOCH 96  Val Acc: 0.116  Time: 15025.2 s
+
+EPOCH 97
+BATCH 100  Train Acc: 0.547  Time: 15075.6 s
+BATCH 200  Train Acc: 0.516  Time: 15126.1 s
+
+EPOCH 97  Val Acc: 0.114  Time: 15182.9 s
+
+EPOCH 98
+BATCH 100  Train Acc: 0.5  Time: 15233.2 s
+BATCH 200  Train Acc: 0.5  Time: 15283.7 s
+
+EPOCH 98  Val Acc: 0.12  Time: 15340.1 s
+
+EPOCH 99
+BATCH 100  Train Acc: 0.469  Time: 15390.4 s
+BATCH 200  Train Acc: 0.531  Time: 15440.2 s
+
+EPOCH 99  Val Acc: 0.108  Time: 15496.8 s
+
+EPOCH 100
+BATCH 100  Train Acc: 0.391  Time: 15547.1 s
+BATCH 200  Train Acc: 0.453  Time: 15597.4 s
+
+EPOCH 100  Val Acc: 0.117  Time: 15653.8 s
+
+ending to Traing ...

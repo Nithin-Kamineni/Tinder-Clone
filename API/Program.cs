@@ -25,7 +25,7 @@ else
 
         Console.WriteLine($"++++++++++++++++++++");
         Console.WriteLine($"connUrl1:{connUrl}");
-        connUrl = "postgres://datingapp_101:ao99wWYfWCG2hlJ@datingapp-101-db.flycast:5432/datingapp_101?sslmode=disable";
+        connUrl = "secret";
         Console.WriteLine($"connUrl2:{connUrl}");
         Console.WriteLine($"++++++++++++++++++++");
 
